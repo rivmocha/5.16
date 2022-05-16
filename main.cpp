@@ -1,13 +1,8 @@
 #include <iostream>
+#include "Wall.h"
+#include "Player.h"
 
 using namespace std;
-
-//int
-//float
-//char
-//bool
-
-
 
 int main()
 {
